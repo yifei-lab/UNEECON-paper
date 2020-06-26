@@ -1,0 +1,32 @@
+Feature	Type	Contribution
+Random effect	random	-1.1358387
+SIFT prediction	con	0.304142
+LRT prediction	con	0.3623474
+MA prediction	con	0.010204252
+PROVEAN prediction	con	0.34283188
+SLR score	con	-0.016415862
+SIFT score	con	-0.07362607
+LRT omega	con	-0.012747923
+MA score	con	0.25168458
+PROVEAN score	con	-0.1898371
+Grantham score	con	0.015786221
+HMM entropy	con	0.19858882
+HMM relative entropy	con	-0.1152234
+PredRSAB	stru	0.16892749
+PredRSAI	stru	0.10132061
+PredRSAE	stru	0.2835119
+PredBFactorF	stru	0.0023051663
+PredBFactorM	stru	0.00265831
+PredBFactorS	stru	0.005323134
+PredStabilityH	stru	0.011617156
+PredStabilityM	stru	0.000354575
+PredStabilityL	stru	-0.087472886
+PredSSE	stru	-0.29927832
+PredSSH	stru	-0.27677745
+PredSSC	stru	-0.18708733
+SPIDEX	reg	0.031441372
+dscore	con	0.10017413
+Primate phyloP score	con	0.085687175
+Mammalian phyloP score	con	0.08889247
+Vertebrate phyloP score	con	0.26797104
+Maximum RNA-seq signal	reg	0.26974958
